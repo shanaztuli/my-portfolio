@@ -1,0 +1,107 @@
+header{
+    background-image: url(../images/developer.png) ,url(../images/header_bg.png);
+    background-repeat: no-repeat;
+background-position: top left,bottom right;
+
+}
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 51px 230px;
+
+
+    
+}
+.name{
+font-size: 45px;
+font-weight: 800px;
+
+
+}
+.color{
+    color:#181818 ;
+}
+.color-2{
+    color: #474747;
+}
+.color-bt {
+    background-color:#FD6E0A ;
+    color: white;
+    border-radius:5px ;
+    border: none;
+    font-weight: bold;
+
+    
+}
+.span{
+    color:#FD6E0A ;
+
+}
+ul{display: flex;
+    gap: 53px;
+    align-items: center;
+    
+    
+}
+ul li{
+    list-style: none;
+}
+ul li a {
+    text-decoration: none;
+    color: #474747;
+}
+
+
+.bt-hire{width: 150px;
+    height: 64px;
+    font-weight: bold;
+}
+.banner{
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 163px;
+margin: 0 35px 0 230px;
+
+}
+.banner-content{
+max-width: 580px;
+}
+.banner-great{font-size:45px ;
+    font-weight: 200;
+
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 85px;
+
+}
+.banner-des{
+    margin-bottom: 30px;
+    font-size: 18px;
+
+
+}
+.down-bt{
+height: 64px;
+width: 200px;
+
+
+}
+.con-bt{
+    width: 150px;
+    height: 64px;
+    border: 2px solid salmon;
+    border-radius: 8px;
+    color: #FD6E0A;
+    font-weight: bold;
+margin-left: 30px;
+    
+}
+.banner-image{
+
+    height: 676px;
+    width: 585px;
+    background-color: none;
+}
